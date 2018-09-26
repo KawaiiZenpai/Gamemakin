@@ -1,0 +1,23 @@
+C:\Users\Brylan Vick\source\repos\project1\project1\obj\Debug\project1.csprojAssemblyReference.cache
+C:\Users\Brylan Vick\source\repos\project1\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\Brylan Vick\source\repos\project1\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\Brylan Vick\source\repos\project1\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\Brylan Vick\source\repos\project1\project1\bin\Debug\project1.exe.config
+C:\Users\Brylan Vick\source\repos\project1\project1\bin\Debug\project1.exe
+C:\Users\Brylan Vick\source\repos\project1\project1\bin\Debug\project1.pdb
+C:\Users\Brylan Vick\source\repos\project1\project1\obj\Debug\project1.exe
+C:\Users\Brylan Vick\source\repos\project1\project1\obj\Debug\project1.pdb
+C:\Users\Brylan Vick\Desktop\Game programming\Gamemakin\Project1\project1\project1\obj\Debug\project1.csprojAssemblyReference.cache
+C:\Users\Brylan Vick\Desktop\Game programming\Gamemakin\Project1\project1\project1\obj\Debug\project1.Form1.resources
+C:\Users\Brylan Vick\Desktop\Game programming\Gamemakin\Project1\project1\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\Brylan Vick\Desktop\Game programming\Gamemakin\Project1\project1\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\Brylan Vick\Desktop\Game programming\Gamemakin\Project1\project1\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\Brylan Vick\Desktop\Game programming\Gamemakin\Project1\project1\project1\obj\Debug\project1.exe
+C:\Users\Brylan Vick\Desktop\Game programming\Gamemakin\Project1\project1\project1\obj\Debug\project1.pdb
+C:\Users\Brylan Vick\Desktop\Game programming\Gamemakin\Project1\project1\project1\bin\Debug\project1.exe.config
+C:\Users\Brylan Vick\Desktop\Game programming\Gamemakin\Project1\project1\project1\bin\Debug\project1.exe
+C:\Users\Brylan Vick\Desktop\Game programming\Gamemakin\Project1\project1\project1\bin\Debug\project1.pdb
+C:\Users\Brylan Vick\Desktop\Game programming\Gamemakin\Project1\project1\project1\bin\Debug\arrow.jpg
+C:\Users\Brylan Vick\Desktop\Game programming\Gamemakin\Project1\project1\project1\bin\Debug\X.png
+C:\Users\Brylan Vick\Desktop\Game programming\Gamemakin\Project1\project1\project1\bin\Debug\002.png
+C:\Users\Brylan Vick\Desktop\Game programming\Gamemakin\Project1\project1\project1\bin\Debug\Skeleton.jpg
