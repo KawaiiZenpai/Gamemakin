@@ -21,3 +21,4 @@ C:\Users\Brylan Vick\Desktop\Game programming\Gamemakin\Project1\project1\projec
 C:\Users\Brylan Vick\Desktop\Game programming\Gamemakin\Project1\project1\project1\bin\Debug\X.png
 C:\Users\Brylan Vick\Desktop\Game programming\Gamemakin\Project1\project1\project1\bin\Debug\002.png
 C:\Users\Brylan Vick\Desktop\Game programming\Gamemakin\Project1\project1\project1\bin\Debug\Skeleton.jpg
+C:\Users\Brylan Vick\Desktop\Game programming\Gamemakin\Project1\project1\project1\bin\Debug\kirbysprites.png

@@ -87,6 +87,9 @@
     <Content Include="arrow.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="kirbysprites.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Skeleton.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
